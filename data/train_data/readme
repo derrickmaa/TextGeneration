@@ -1,3 +1,9 @@
+first sentence model:
+length of 'theme' = 1
+length of 'keyword' = 1
+length of 'tgt' <= 80
+
+content model:
 length of 'theme' = 1
 length of 'keyword' = 1
 length of 'src' <= 80
