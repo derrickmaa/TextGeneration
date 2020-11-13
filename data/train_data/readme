@@ -1,0 +1,4 @@
+length of 'theme' = 1
+length of 'keyword' = 1
+length of 'src' <= 80
+length of 'tgt' <= 80
